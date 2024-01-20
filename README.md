@@ -1,3 +1,19 @@
+<h1> Highlights 🌟</h1>
+<h2>Implemented Debouncing:</h2>
+
+Given String =><br>
+- "iPhone pro max" = 14 letter * 1000 = 140000<br>
+- For every letter it is used to make an API call<br>
+
+with debouncing= 3 API calls * 1000 = 3000🚀<br>
+- With debouncing, it only makes 3 API calls if typing speed is above 200ms<br>
+- Debouncing with 200ms<br>
+
+<h3>The difference between 2 keystrokes is <200ms - DECLINE API call❌</h3>
+<h3>If typing speed >200ms make an API call✅</h3>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
